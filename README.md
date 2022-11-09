@@ -1,15 +1,14 @@
-# Flutter Testing Tutorial
+# Flutter Unit Testing with TDD Approach
+This is the result of learning and experimentation from the ResoCoder tutorial :
 
-### Starter project from the [Flutter Education Membership](https://resocoder.com/fem).
+Flutter Testing Guide for Beginners - Part 1: Unit Tests & Setup
 
-Become a professional Flutter developer! Learn from in-depth tutorials like this one, be a part of a big Discord community with the same goals as you have, and participate in monthly live Q&As with the tutors!
 
-#### _Join to learn from premium tutorials like this on [resocoder.com/fem](https://resocoder.com/fem)_
 
-<br />
-<br />
+source : https://youtu.be/hUAUAkIZmX0
+
 
 [![Reso Coder](https://resocoder.com/wp-content/uploads/2019/09/logo_with_text_signature.png)](https://resocoder.com)
-<br />
-_Be prepared for **real** app development_
-# flutter_tdd_unit_test_mocktail
+
+
+
