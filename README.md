@@ -1,4 +1,4 @@
-# Flutter Unit Testing with TDD Approach
+# Flutter Unit Testing & Mocking with Mocktail
 This is the result of learning and experimentation from the ResoCoder tutorial :
 
 Flutter Testing Guide for Beginners - Part 1: Unit Tests & Setup
